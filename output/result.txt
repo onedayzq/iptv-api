@@ -1,12 +1,14 @@
 🕘️更新时间,#genre#
-2026-08-08 11:38:50,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-08-08 12:21:27,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4,https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
+CCTV-6,https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
@@ -17,6 +19,27 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
+💰央视付费频道,#genre#
+
 📡卫视频道,#genre#
 
-江苏频道,#genre#
+☘️上海频道,#genre#
+嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
+
+☘️江苏频道,#genre#
+如东新闻综合,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+无锡新闻综合,http://m.m3u8.wifiwx.com:80/live/wifiwx-239.m3u8
+无锡生活,http://m.m3u8.wifiwx.com/live/wifiwx-244.m3u8
+无锡经济,http://m.m3u8.wifiwx.com/live/wifiwx-245.m3u8
+
+☘️辽宁频道,#genre#
+
+☘️河南频道,#genre#
+
+🌊港·澳·台,#genre#
+
+🎬电影频道,#genre#
+
+🏀体育频道,#genre#
+
+🪁动画频道,#genre#

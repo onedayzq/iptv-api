@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-08 11:38:50,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-08-08 12:21:27,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -14,6 +14,22 @@ CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
+💰央视付费频道,#genre#
+
 📡卫视频道,#genre#
 
-江苏频道,#genre#
+☘️上海频道,#genre#
+
+☘️江苏频道,#genre#
+
+☘️辽宁频道,#genre#
+
+☘️河南频道,#genre#
+
+🌊港·澳·台,#genre#
+
+🎬电影频道,#genre#
+
+🏀体育频道,#genre#
+
+🪁动画频道,#genre#
